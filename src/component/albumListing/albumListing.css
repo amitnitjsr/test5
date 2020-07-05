@@ -1,0 +1,11 @@
+.card-body-st{
+    margin: 19px;
+    width: fit-content;
+    cursor: pointer;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
